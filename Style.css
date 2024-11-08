@@ -1,0 +1,38 @@
+body {
+    background-color: pink;
+}
+
+#conteiner {
+    display: flex;
+}
+
+footer {
+    background-color: white;
+    font-size: 25px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+}
+
+.cartão {
+    background-color: blueviolet;
+    height: 20rem;
+    margin: 1rem 1rem;
+}
+
+.Pergunta {
+     color:aquamarine
+}
+
+.Resposta {
+    color:chocolate
+}
+h3 {
+    margin: 1rem;
+    background-color: brown;
+    margin-top: 1rem;
+    padding: 0,5rem;
+    position: absolute;
+    border-radius: 0,5rem;
+}
